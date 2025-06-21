@@ -35,3 +35,19 @@ An interactive Python application built with **Tkinter** that generates fill-in-
 2. Run it with:
    ```bash
    python quiz_generator.py
+## 💡 Usage Tips
+-Paste a paragraph with at least a few complete sentences.
+
+-Choose a number of questions less than or equal to the number of sentences.
+
+-The app will replace a random "important" word in each sentence with a blank (........) for you to fill.
+
+## 🙌 Credits
+made by **Kevin Ehab** using:
+
+- tkinter for the GUI
+
+- random for selecting questions
+
+- tkinter.messagebox for alerts
+
